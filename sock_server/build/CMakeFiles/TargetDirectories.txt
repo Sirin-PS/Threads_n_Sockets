@@ -1,0 +1,3 @@
+/home/darya/cxx_projects/sock_thr_test/sock_server/build/CMakeFiles/server1.dir
+/home/darya/cxx_projects/sock_thr_test/sock_server/build/CMakeFiles/edit_cache.dir
+/home/darya/cxx_projects/sock_thr_test/sock_server/build/CMakeFiles/rebuild_cache.dir
